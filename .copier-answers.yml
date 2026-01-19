@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v1.1
+_src_path: gh:virtlink/zensical-docs-template
+author: CAMBioMed
+description: Tutorials and guides on annotating photo quadrats.
+name: Annotation Guide
+site_url: https://cambiomed-biodiversa.com/guide/
+vcs_organization: CAMBioMed
+vcs_platform: GitHub
+vcs_project: guide

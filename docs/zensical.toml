@@ -1,0 +1,45 @@
+[project]
+site_name = "Annotation Guide"
+site_description = "Guide on annotating photo quadrats."
+site_author = "CAMBioMed"
+
+site_dir = "public/"
+site_url = "https://cambiomed-biodiversa.com/guide/"
+docs_dir = "content/"
+repo_url = "https://github.com/CAMBioMed/guide"
+edit_uri = "https://github.com/CAMBioMed/guide/edit/main/docs"
+
+extra_css = ["assets/extra.css"]
+
+
+[project.theme]
+language = "en"
+variant = "modern"
+features = [
+    "navigation.tabs",
+    "navigation.top",
+    "navigation.indexes",
+    "content.code.annotate",
+    "content.code.copy",
+    "content.action.edit",
+    "content.action.view",
+]
+font.code = "JetBrains Mono"
+
+[project.theme.icon]
+logo = "fontawesome/solid/cat"
+repo = "fontawesome/brands/github"
+
+[[project.theme.palette]] 
+scheme = "default"
+primary = "indigo"
+accent = "deep orange"
+toggle.icon = "material/weather-night"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+primary = "indigo"
+accent = "deep orange"
+toggle.icon = "material/weather-sunny"
+toggle.name = "Switch to light mode"
