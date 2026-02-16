@@ -1,3 +1,6 @@
+---
+icon: material/label-multiple
+---
 # Label set
 
 The label set we use can be downloaded here:

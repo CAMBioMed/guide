@@ -1,4 +1,7 @@
-# Source
+---
+icon: fontawesome/solid/magnifying-glass-chart
+---
+# CoralNet Source
 The source.
 
 [CoralNet Source](https://coralnet.ucsd.edu/source/7958/){ .md-button .md-button--primary }

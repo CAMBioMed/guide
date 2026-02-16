@@ -21,6 +21,10 @@ Guide = [
 [[project.nav]]
 Reference = [
   "reference/index.md",
+  "reference/0_gathering.md",
+  "reference/1_preprocessing.md",
+  "reference/3_annotating.md",
+  "reference/4_analysis.md",
   "reference/source.md",
   "reference/labelset.md",
 ]

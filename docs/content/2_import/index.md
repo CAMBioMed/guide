@@ -14,7 +14,7 @@ This guide details how to import your [preprocessed](../0_preprocess/index.md) p
 2.  Click the _Upload images_ button.
 
     !!! note ""
-        Check the source point generation settings and source annotation area settings. They should be:
+        Check the source point generation settings and source annotation area settings. [They should be](../reference/source.md):
 
         - Point generation settings: `simple random, 100 points`
         - Annotation area settings: `X: 0-100%, Y: 0-100%`
@@ -22,7 +22,7 @@ This guide details how to import your [preprocessed](../0_preprocess/index.md) p
 3.  Click _Browse_ and select the photos to upload.
 
     !!! tip ""
-        Select multiple photos at the same time.
+        You can select multiple photos at the same time.
 
 4.  Leave _Name prefix_ empty.
 5.  Click _Start upload_ to begin uploading.
