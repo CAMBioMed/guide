@@ -8,4 +8,5 @@ icon: material/numeric-1-box
 - Lens correct
 - Color correct
 
+- Rename files
 - Set metadata
