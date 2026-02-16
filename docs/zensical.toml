@@ -47,8 +47,9 @@ features = [
 ]
 font.code = "JetBrains Mono"
 
+# [project.theme]
+logo = "cambiomed-fish.png"
 [project.theme.icon]
-logo = "fontawesome/solid/cat"
 repo = "fontawesome/brands/github"
 
 [[project.theme.palette]] 
