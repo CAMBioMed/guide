@@ -1,19 +1,20 @@
 ---
-title: "Home"
+title: "Guide"
 ---
-# Photo quadrat annotation tutorial
-Tutorials and guides on annotating photo quadrats.
+# Photo quadrat annotation guide
+CAMBioMed guide on annotating photo quadrats.
 
-To view this documentation live, invoke:
+## Quick links
 
-```shell
-cd docs/
-```
-```shell
-uv run zensical serve
-```
+[CoralNet Source](https://coralnet.ucsd.edu/source/7958/){ .md-button .md-button--primary }
 
-This will publish the documentation at [localhost:8000](http://localhost:8000/) by default, and watch for any changes to the documentation source files.
 
-[Zensical Documentation](https://zensical.org/){ .md-button }
+## Steps
+[Prepare](./0_prepare/) your access to [CoralNet](https://coralnet.ucsd.edu/). Then:
+
+1.  [Preprocess](./1_preprocess/index.md)
+2.  [Import](./2_import/index.md)
+3.  [Annotate](./3_annotate/index.md)
+4.  [Export](./4_export/index.md)
+
 

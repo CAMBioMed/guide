@@ -1,5 +1,5 @@
 [[project.nav]]
-Home = [
+Guide = [
   "index.md",
   { Prepare = [
     "0_prepare/index.md",
@@ -16,6 +16,19 @@ Home = [
   { Export = [
     "4_export/index.md",
   ] },
+]
+
+[[project.nav]]
+Reference = [
+  "reference/index.md",
+  "reference/source.md",
+  "reference/labelset.md",
+]
+
+[[project.nav]]
+Meta = [
+  "meta/index.md",
+  "meta/this-docs.md",
 ]
 
 
