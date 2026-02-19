@@ -9,10 +9,10 @@ Guide = [
     { Photoshop = [
       "1_preprocess/photoshop/index.md",
       "1_preprocess/photoshop/batch-processing.md",
-      "1_preprocess/photoshop/color-correction.md",
-      "1_preprocess/photoshop/lens-correction.md",
-      "1_preprocess/photoshop/square-cropping.md",
-      "1_preprocess/photoshop/perspective-cropping.md",
+      # "1_preprocess/photoshop/color-correction.md",
+      # "1_preprocess/photoshop/lens-correction.md",
+      # "1_preprocess/photoshop/square-cropping.md",
+      # "1_preprocess/photoshop/perspective-cropping.md",
     ] },
   ] },
   { Import = [
