@@ -13,7 +13,6 @@ In [Photopea](https://www.photopea.com/):
     ![Perspective crop tool](./perspective-crop-tool.png){ width="200" }
 
 2.  Drag the four corners into the image until the highlighted region is inside the photoquadrat.
-
-    ![Perspective cropping](./perspective-cropping.png){ width="400" }
-
 3.  Click the _:material-check-bold:_ button in the toolbar at the top to confirm and apply the crop.
+
+![Perspective cropping](./perspective-cropping.png)

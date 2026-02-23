@@ -21,7 +21,7 @@ Open the [Photopea](https://www.photopea.com/) website.
 !!! note ""
     You can stop and resume recording the action at any time using the buttons at the bottom of the Actions window.
 
-![Actions window](./actions-window.png){ width="400" }
+![Actions window](./actions-window.png){ width="300" }
 
 
 ## Perform actions

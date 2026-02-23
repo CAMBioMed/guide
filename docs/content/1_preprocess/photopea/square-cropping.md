@@ -13,7 +13,6 @@ In [Photopea](https://www.photopea.com/):
     ![Square crop tool](./square-crop-tool.png){ width="200" }
 
 2.  Drag the four sides into the image until the highlighted region is approximately inside the photoquadrat.
-
-    ![Square cropping](./square-cropping.png){ width="400" }
-
 3.  Click the _:material-check-bold:_ button in the toolbar at the top to confirm and apply the crop.
+
+![Square cropping](./square-cropping.png)
