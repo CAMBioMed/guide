@@ -22,6 +22,9 @@ Guide = [
       "1_preprocess/photoshop/perspective-cropping.md",
       "1_preprocess/photoshop/square-cropping.md",
     ] },
+    { Renaming = [
+      "1_preprocess/renaming/index.md",
+    ] },
   ] },
   { Import = [
     "2_import/index.md",
