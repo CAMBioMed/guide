@@ -27,10 +27,10 @@ Open the [Photopea](https://www.photopea.com/) website.
 ## Perform actions
 Now perform the actions to this photo that you want to repeat on other photos. See these pages for more information:
 
-- [Lens correction](./lens-correction.md)
 - [Color correcttion](./color-correction.md)
-- [Square cropping](./square-cropping.md)
+- [Lens correction](./lens-correction.md)
 - [Perspective cropping](./perspective-cropping.md)
+- [Square cropping](./square-cropping.md)
 
 !!! note ""
     In contrast to Photoshop, it is not needed to perform a final _Save_ action in Photopea.

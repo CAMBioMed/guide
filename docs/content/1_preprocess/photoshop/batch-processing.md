@@ -31,8 +31,8 @@ Now perform the actions to this photo that you want to repeat on other photos. S
 
 - [Lens correction](./lens-correction.md)
 - [Color correcttion](./color-correction.md)
-- [Square cropping](./square-cropping.md)
 - [Perspective cropping](./perspective-cropping.md)
+- [Square cropping](./square-cropping.md)
 
 ## Save action
 Perform and record a final _Save As_ action.
