@@ -6,6 +6,14 @@ Guide = [
   ] },
   { Preprocess = [
     "1_preprocess/index.md",
+    { Photopea = [
+      "1_preprocess/photopea/index.md",
+      "1_preprocess/photopea/batch-processing.md",
+      # "1_preprocess/photopea/color-correction.md",
+      # "1_preprocess/photopea/lens-correction.md",
+      # "1_preprocess/photopea/square-cropping.md",
+      # "1_preprocess/photopea/perspective-cropping.md",
+    ] },
     { Photoshop = [
       "1_preprocess/photoshop/index.md",
       "1_preprocess/photoshop/batch-processing.md",

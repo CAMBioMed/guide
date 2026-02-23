@@ -12,9 +12,9 @@ Ensure all the relevant photos are in the same folder.
 
 ## Start recording
 1.  Open one of the photos in Photoshop.
-2.  Go to the menu _Window_, _Actions_.
-3.  Click the _New set_ button and create a new set (e.g., `CAMBioMed Actions`).
-4.  Click the _New action_ button and enter the information for a new action in this set (e.g., `Crop photoquadrats`).
+2.  Go to the menu _Window_, _Actions_ top open the Actions window.
+3.  Click the _:material-folder: New set_ button and create a new set (e.g., `CAMBioMed Actions`).
+4.  Click the _:material-plus-box: New action_ button and enter the information for a new action in this set (e.g., `Crop photoquadrats`).
 
     ![New action window](./new-action.png){ width="400" }
 

@@ -1,6 +1,6 @@
 ---
 title: "Photoshop"
-icon: fontawesome/solid/paintbrush
+icon: simple/photopea
 ---
 # Photoshop
 
