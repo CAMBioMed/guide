@@ -3,7 +3,7 @@ icon: fontawesome/solid/book
 ---
 # Reference
 
-## Methodologuy
+## Methodology
 - [Gathering](./0_gathering.md)
 - [Preprocessing](./1_preprocessing.md)
 - [Annotation](./3_annotation.md)
