@@ -1,5 +1,6 @@
 ---
 title: "Renaming"
+icon: material/rename
 ---
 # Renaming
 Rename the photos before uploading them to CoralNet to make it easier to distinguish them and to avoid duplicate filenames when we're uploading photos from multiple camera's and groups.

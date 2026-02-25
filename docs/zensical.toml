@@ -25,6 +25,9 @@ Guide = [
     { Renaming = [
       "1_preprocess/renaming/index.md",
     ] },
+    { "CAMBioMed Preprocessor" = [
+      "1_preprocess/preprocessor/index.md",
+    ] },
   ] },
   { Import = [
     "2_import/index.md",
