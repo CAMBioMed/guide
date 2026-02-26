@@ -7,11 +7,10 @@ Rename the photos before uploading them to CoralNet to make it easier to disting
 
 Metadata:
 
-- Group
-- Season
+- Partner
 - Area
-- Site name
-- Depth
+- Site
+- Season
 - Transect
 - Date
 - Photo number
@@ -19,8 +18,8 @@ Metadata:
 For example, with the fields separated by underscores:
 
 ```
-Rilov_Fall_Bioblitz_SK-Buoy12_SH_1_2025-10-23_9.JPG
-Rilov_Fall_Bioblitz_SK-Buoy12_SH_1_2025-10-23_10.JPG
+Rilov_Bioblitz_SK-Buoy12_Fall_1_2025-10-23_009.JPG
+Rilov_Bioblitz_SK-Buoy12_Fall_1_2025-10-23_010.JPG
 ```
 
 I don't know this tool, but some have had success using [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/).

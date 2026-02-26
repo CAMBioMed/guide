@@ -18,11 +18,11 @@ The source.
 
 ### Auxiliary Metadata Fields
 
-- Aux 1: `Aux1`
-- Aux 2: `Aux2`
-- Aux 3: `Aux3`
-- Aux 4: `Aux4`
-- Aux 5: `Aux5`
+- Aux 1: `Partner`
+- Aux 2: `Area`
+- Aux 3: `Site`
+- Aux 4: `Season`
+- Aux 5: `Transect`
 
 
 ### Annotation Area
