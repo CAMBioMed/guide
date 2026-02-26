@@ -67,8 +67,7 @@ site_dir = "public/"
 site_url = "https://cambiomed-biodiversa.com/guide/"
 docs_dir = "content/"
 repo_url = "https://github.com/CAMBioMed/guide"
-edit_uri = "https://github.com/CAMBioMed/guide/edit/main/docs"
-
+edit_uri = "https://github.com/CAMBioMed/guide/edit/main/docs/content"
 extra_css = ["assets/extra.css"]
 
 

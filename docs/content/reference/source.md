@@ -35,8 +35,9 @@ The source.
 
 ### Point Generation
 
-- Generation type: `Simple Random`
-- Number of points: `30`
+- Generation type: `Uniform Grid`
+- Number of cell rows: `8`
+- Number of cell columns: `8`
 
 
 ### Automatic Classification

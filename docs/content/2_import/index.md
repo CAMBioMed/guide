@@ -16,7 +16,7 @@ This guide details how to import your [preprocessed](../0_preprocess/index.md) p
     !!! note ""
         Check the source point generation settings and source annotation area settings. [They should be](../reference/source.md):
 
-        - Point generation settings: `simple random, 100 points`
+        - Point generation settings: `Uniform grid, 8 rows x 8 columns (total of 64 points)`
         - Annotation area settings: `X: 0-100%, Y: 0-100%`
 
 3.  Click _Browse_ and select the photos to upload.
