@@ -25,6 +25,9 @@ Guide = [
     { Renaming = [
       "1_preprocess/renaming/index.md",
     ] },
+    { "Bulk Rename Utility" = [
+      "1_preprocess/bulk-rename-utility/index.md",
+    ] },
     { "CAMBioMed Preprocessor" = [
       "1_preprocess/preprocessor/index.md",
     ] },
