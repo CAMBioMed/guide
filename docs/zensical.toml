@@ -52,6 +52,11 @@ Reference = [
   "reference/4_analysis.md",
   "reference/source.md",
   "reference/labelset.md",
+  { Preprocessor = [
+    "reference/preprocessor/index.md",
+    "reference/preprocessor/windows.md",
+    "reference/preprocessor/macos.md",
+  ] },
 ]
 
 [[project.nav]]
