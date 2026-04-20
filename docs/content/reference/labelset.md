@@ -6,7 +6,7 @@ icon: material/label-multiple
 The label set we use can be downloaded here:
 
 [Label set on CoralNet](https://coralnet.ucsd.edu/source/7958/labelset/){ .md-button .md-button--primary }
-<a href="./labelset.csv" class="md-button" download="labelset.csv" target="_blank">Label set CSV</a>
+<a href="../labelset.csv" class="md-button" download="labelset.csv" target="_blank">Label set CSV</a>
 
 
 | CoralNet Functional Group | Morpho-Functional - Level 1               | Morpho-Functional - Level 2     | Genus/family level         | Species level                         | CoralNet Name                         | CoralNet Label ID | CoralNet Short code                     |
