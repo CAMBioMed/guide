@@ -68,6 +68,8 @@ Label ID,Short Code
 3530,CCS_Lep
 12004,CCS_Lep_DD
 6025,Cha
+6836,Cho_das
+11476,Cla_spo
 8748,Cod
 11633,Cod_ara
 8127,Cod_bur
@@ -162,6 +164,7 @@ Label ID,Short Code
 11635,Hal_incu
 1907,Hal_sco
 7220,Hal_tun
+12350,Hyd
 3209,Hyp
 982,INV
 11678,Lau
@@ -234,3 +237,4 @@ Label ID,Short Code
 11673,Val
 11639,Vid_vol
 3669,Zan_typ
+505,Zon_tou

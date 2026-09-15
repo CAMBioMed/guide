@@ -1,236 +1,240 @@
-﻿Label ID,Short Code,CoralNet Functional Group,Morpho-Functional - Level 1,Morpho-Functional - Level 2,Genus/family level,Species level,CoralNet Name,CoralNet Existing Link
-147,ES,Other Invertebrates,Encrusting sponge,,,,Encrusting sponge,https://coralnet.ucsd.edu/label/147/
-11586,ESO,Other Invertebrates,Encrusting sponge,encrusting sponge orange,,,Encrusting sponge orange,https://coralnet.ucsd.edu/label/11586/
-11587,ESO_Sco,Other Invertebrates,Encrusting sponge,encrusting sponge orange,,Scopalina lophiropoda,Scopalina lophiropoda,https://coralnet.ucsd.edu/label/11587/
-11588,ESO_Hal,Other Invertebrates,Encrusting sponge,encrusting sponge orange,,Haliclona fulva,Haliclona fulva,https://coralnet.ucsd.edu/label/11588/
-3671,ES_Hal,Other Invertebrates,Encrusting sponge,,,Haliclona mucosa,Haliclona mucosa,https://coralnet.ucsd.edu/label/3671/
-3673,ES_Hem,Other Invertebrates,Encrusting sponge,,,Hemimycale columella,Hemimycale columella,https://coralnet.ucsd.edu/label/3673/
-8148,ES_Hex,Other Invertebrates,Encrusting sponge,,,Hexadella racovitzai,Hexadella racovitzai,https://coralnet.ucsd.edu/label/8148/
-11589,ES_Pho_red,Other Invertebrates,Encrusting sponge,,Phorbas sp red,,Phorbas sp. red,https://coralnet.ucsd.edu/label/11589/
-1728,ES_Pho_ten,Other Invertebrates,Encrusting sponge,,,Phorbas tenacior,Phorbas tenacior,https://coralnet.ucsd.edu/label/1728/
-11590,ES_Pla,Other Invertebrates,Encrusting sponge,,Plakina sp,,Plakina sp.,https://coralnet.ucsd.edu/label/11590/
-7156,ES_Ple,Other Invertebrates,Encrusting sponge,,,Pleraplysilla spinifera,Pleraplysilla spinifera,https://coralnet.ucsd.edu/label/7156/
-11591,ES_Ter,Other Invertebrates,Encrusting sponge,,,Terpios gelatinosus,Terpios gelatinosus,https://coralnet.ucsd.edu/label/11591/
-11592,MS,Other Invertebrates,Massive sponge,,,,Massive sponge,https://coralnet.ucsd.edu/label/11592/
-11994,MS_DD,Other Invertebrates,Massive sponge,,,,"Massive sponge, dead",https://coralnet.ucsd.edu/label/11994/
-11593,MS_black,Other Invertebrates,Massive sponge,Black massive sponge,,,Black massive sponge,https://coralnet.ucsd.edu/label/11593/
-11995,MS_blackD,Other Invertebrates,Massive sponge,,,,"Black massive sponge, dead",https://coralnet.ucsd.edu/label/11995/
-973,MS_Cho_nuc,Other Invertebrates,Massive sponge,,,Chondrilla nucula,Chondrilla nucula,https://coralnet.ucsd.edu/label/973/
-11996,MS_Cho_nD,Other Invertebrates,Massive sponge,,,,"Chondrilla nucula, dead",https://coralnet.ucsd.edu/label/11996/
-7307,MS_Cho_ren,Other Invertebrates,Massive sponge,,,Chondrosia reniformis,Chondrosia reniformis,https://coralnet.ucsd.edu/label/7307/
-11997,MS_Cho_rD,Other Invertebrates,Massive sponge,,,,"Chondrosia reniformis, dead",https://coralnet.ucsd.edu/label/11997/
-1986,MS_Dys,Other Invertebrates,Massive sponge,,,Dysidea avara,Dysidea avara,https://coralnet.ucsd.edu/label/1986/
-11594,MS_Ery,Other Invertebrates,Massive sponge,,Erylus sp,,Erylus sp.,https://coralnet.ucsd.edu/label/11594/
-11595,MS_Ery_eua,Other Invertebrates,Massive sponge,,Erylus sp,Erylus euastrum,Erylus euastrum,https://coralnet.ucsd.edu/label/11595/
-3020,MS_Geo,Other Invertebrates,Massive sponge,,Geodia sp,,Geodia sp.,https://coralnet.ucsd.edu/label/3020/
-11596,MS_Hal,Other Invertebrates,Massive sponge,,,Haliclona mediterranea,Haliclona (Reniera) mediterranea,https://coralnet.ucsd.edu/label/11596/
-11597,MS_Hip,Other Invertebrates,Massive sponge,,,Hippospongia communis,Hippospongia communis,https://coralnet.ucsd.edu/label/11597/
-11598,MS_Irc_fas,Other Invertebrates,Massive sponge,,,Ircinia fasciculata,Ircinia fasciculata,https://coralnet.ucsd.edu/label/11598/
-11998,MS_Irc_fD,Other Invertebrates,Massive sponge,,,,"Ircinia fasciculata, dead",https://coralnet.ucsd.edu/label/11998/
-2160,MS_Irc_var,Other Invertebrates,Massive sponge,,,Ircinia variabilis,Ircinia variabilis,https://coralnet.ucsd.edu/label/2160/
-11999,MS_Irc_vD,Other Invertebrates,Massive sponge,,,,"Ircinia variabilis, dead",https://coralnet.ucsd.edu/label/11999/
-4642,MS_Par,Other Invertebrates,Massive sponge,,,Paraleucilla magna,Paraleucilla magna,https://coralnet.ucsd.edu/label/4642/
-1255,MS_Pet,Other Invertebrates,Massive sponge,,,Petrosia ficiformis,Petrosia ficiformis,https://coralnet.ucsd.edu/label/1255/
-12000,MS_Pet_DD,Other Invertebrates,Massive sponge,,,,"Petrosia ficiformis, dead",https://coralnet.ucsd.edu/label/12000/
-4130,BS,Other Invertebrates,Boring sponge,,,,Boring sponge,https://coralnet.ucsd.edu/label/4130/
-3623,BS_Cli,Other Invertebrates,Boring sponge,,Cliona sp,,Cliona sp.,https://coralnet.ucsd.edu/label/3623/
-12001,BS_Cli_DD,Other Invertebrates,Boring sponge,,,,"Cliona sp., dead",https://coralnet.ucsd.edu/label/12001/
-1147,BS_Cli_cel,Other Invertebrates,Boring sponge,,Cliona sp,Cliona celata,Cliona celata,https://coralnet.ucsd.edu/label/1147/
-7496,BS_Cli_par,Other Invertebrates,Boring sponge,,Cliona sp,Cliona parenzani,Cliona parenzani,https://coralnet.ucsd.edu/label/7496/
-7030,BS_Cli_vir,Other Invertebrates,Boring sponge,,Cliona sp,Cliona viridis,Cliona viridis,https://coralnet.ucsd.edu/label/7030/
-11599,AF,Other Invertebrates,Animal feather,,,,Animal feather,https://coralnet.ucsd.edu/label/11599/
-1799,AF_Hyd,Other Invertebrates,Animal feather,,Hydrozoa sp,,Hydrozoa,https://coralnet.ucsd.edu/label/1799/
-1252,AF_Mac,Other Invertebrates,Animal feather,,,Macrorhynchia philippina,Macrorhynchia philippina,https://coralnet.ucsd.edu/label/1252/
-11600,AF_Maa,Other Invertebrates,Animal feather,,,Maasella edwardsi,Maasella edwardsi,https://coralnet.ucsd.edu/label/11600/
-11601,CCS,Hard coral,Coral cup solitary,,,,Coral cup solitary,https://coralnet.ucsd.edu/label/11601/
-12002,CCS_DD,Hard coral,Coral cup solitary,,,,"Coral cup solitary, dead",https://coralnet.ucsd.edu/label/12002/
-10081,CCS_Bal,Hard coral,Coral cup solitary,,,Balanophyllia europaea,Balanophyllia europaea,https://coralnet.ucsd.edu/label/10081/
-12003,CCS_Bal_DD,Hard coral,Coral cup solitary,,,,"Balanophyllia europaea, dead",https://coralnet.ucsd.edu/label/12003/
-3530,CCS_Lep,Hard coral,Coral cup solitary,,,Leptopsammia pruvoti,Leptopsammia pruvoti,https://coralnet.ucsd.edu/label/3530/
-12004,CCS_Lep_DD,Hard coral,Coral cup solitary,,,,"Leptopsammia pruvoti, dead",https://coralnet.ucsd.edu/label/12004/
-10911,CCS_Car,Hard coral,Coral cup solitary,,Caryophylia sp,,Caryophyllia sp.,https://coralnet.ucsd.edu/label/10911/
-11602,CCC,Hard coral,Coral cup colonial,,,,Coral cup colonial,https://coralnet.ucsd.edu/label/11602/
-12005,CCC_DD,Hard coral,Coral cup colonial,,,,"Coral cup colonial, dead",https://coralnet.ucsd.edu/label/12005/
-8108,CCC_Ast,Other Invertebrates,Coral cup colonial,,,Astroides calycularis,Astroides calycularis,https://coralnet.ucsd.edu/label/8108/
-12006,CCC_Ast_DD,Other Invertebrates,Coral cup colonial,,,,"Astroides calycularis, dead",https://coralnet.ucsd.edu/label/12006/
-8149,CCC_Hop,Hard coral,Coral cup colonial,,,Hoplangia durotrix,Hoplangia durotrix,https://coralnet.ucsd.edu/label/8149/
-1784,CCC_Mad,Hard coral,Coral cup colonial,,,Madracis pharensis,Madracis pharensis,https://coralnet.ucsd.edu/label/1784/
-12007,CCC_Mad_DD,Hard coral,Coral cup colonial,,,,"Madracis pharensis, dead",https://coralnet.ucsd.edu/label/12007/
-1250,CCC_Ocu,Hard coral,Coral cup colonial,,,Oculina patagonica,Oculina patagonica,https://coralnet.ucsd.edu/label/1250/
-12008,CCC_Ocu_DD,Hard coral,Coral cup colonial,,,,"Oculina patagonica, dead",https://coralnet.ucsd.edu/label/12008/
-7303,CCC_Par,Other Invertebrates,Coral cup colonial,,,Parazoanthus axinellae,Parazoanthus axinellae,https://coralnet.ucsd.edu/label/7303/
-12009,CCC_Par_DD,Other Invertebrates,Coral cup colonial,,,,"Parazoanthus axinellae, dead",https://coralnet.ucsd.edu/label/12009/
-805,CCC_Cla,Hard coral,Coral cup colonial,,,Cladocora caespitosa,Cladocora caespitosa,https://coralnet.ucsd.edu/label/805/
-12010,CCC_Cla_DD,Hard coral,Coral cup colonial,,,,"Cladocora caespitosa, dead",https://coralnet.ucsd.edu/label/12010/
-8211,EB,Other Invertebrates,Encrusting bryozoans,,,,Encrusting bryozoans,https://coralnet.ucsd.edu/label/8211/
-12011,EB_DD,Other Invertebrates,Encrusting bryozoans,,,,"Encrusting bryozoans, dead",https://coralnet.ucsd.edu/label/12011/
-11603,BB,Other Invertebrates,Branching bryozoans,,,,Branching bryozoans,https://coralnet.ucsd.edu/label/11603/
-12012,BB_DD,Other Invertebrates,Branching bryozoans,,,,"Branching bryozoans, dead",https://coralnet.ucsd.edu/label/12012/
-3653,BB_Den,Other Invertebrates,Branching bryozoans,,,Dentiporella sardonica,Dentiporella sardonica,https://coralnet.ucsd.edu/label/3653/
-11604,BBB,Other Invertebrates,Branching bryozoans,Bushforming bryozoans,,,Bushforming bryozoans,https://coralnet.ucsd.edu/label/11604/
-7584,BBB_Ama,Other Invertebrates,Branching bryozoans,Bushforming bryozoans,,Amathia verticillata,Amathia verticillata,https://coralnet.ucsd.edu/label/7584/
-11605,BBB_Tri,Other Invertebrates,Branching bryozoans,Bushforming bryozoans,,Tricellaria inopinata,Tricellaria inopinata,https://coralnet.ucsd.edu/label/11605/
-3661,BBR_Myr,Other Invertebrates,Branching bryozoans,Random branching bryozoans,,Myriapora truncata,Myriapora truncata,https://coralnet.ucsd.edu/label/3661/
-12013,BBR_Myr_DD,Other Invertebrates,Branching bryozoans,,,,"Myriapora truncata, dead",https://coralnet.ucsd.edu/label/12013/
-11606,BBM,Other Invertebrates,Branching bryozoans,Multilayered branching bryozoan,,,Multilayered branching bryozoan,https://coralnet.ucsd.edu/label/11606/
-3662,BBM_Pen,Other Invertebrates,Branching bryozoans,Multilayered branching bryozoan,,Pentapora fascialis,Pentapora fascialis,https://coralnet.ucsd.edu/label/3662/
-12014,BBM_Pen_DD,Other Invertebrates,Branching bryozoans,,,,"Pentapora fascialis, dead",https://coralnet.ucsd.edu/label/12014/
-11607,BBF,Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans,,,Fan-shaped bryozoans,https://coralnet.ucsd.edu/label/11607/
-12015,BBF_DD,Other Invertebrates,Branching bryozoans,,,,"Fan-shaped bryozoans, dead",https://coralnet.ucsd.edu/label/12015/
-11608,BBF_RetGri,Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans,,Reteporella grimaldii,Reteporella grimaldii,https://coralnet.ucsd.edu/label/11608/
-8150,BBF_Hor,Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans,,Hornera frondiculata,Hornera frondiculata,https://coralnet.ucsd.edu/label/8150/
-11609,BBF_Ret,Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans,Reteporella sp,,Reteporella sp.,https://coralnet.ucsd.edu/label/11609/
-11610,LBA,Other Invertebrates,Ligh-bulb ascidians,,,,Light-bulb ascidians,https://coralnet.ucsd.edu/label/11610/
-2126,LBA_Cla,Other Invertebrates,Ligh-bulb ascidians,,Clavelina sp,,Clavelina sp.,https://coralnet.ucsd.edu/label/2126/
-8215,SA,Other Invertebrates,Solitary ascidians,,,,Solitary ascidians,https://coralnet.ucsd.edu/label/8215/
-7994,ET,Other Invertebrates,Encrusting tunicates,,,,Encrusting tunicates,https://coralnet.ucsd.edu/label/7994/
-488,ET_Bot,Other Invertebrates,Encrusting tunicates,,Botrylloides sp,,Botrylloides sp.,https://coralnet.ucsd.edu/label/488/
-11611,ET_Did,Other Invertebrates,Encrusting tunicates,,Didemnidae sp,,Didemnidae sp.,https://coralnet.ucsd.edu/label/11611/
-8174,ET_Pol_lac,Other Invertebrates,Encrusting tunicates,,,Polysyncraton lacazei,Polysyncraton lacazei,https://coralnet.ucsd.edu/label/8174/
-9792,ET_Pol_zor,Other Invertebrates,Encrusting tunicates,,,Polyandrocarpa zorritensis,Polyandrocarpa zorritensis,https://coralnet.ucsd.edu/label/9792/
-11612,BM,Other Invertebrates,Boring mollusc,,,,Boring mollusc,https://coralnet.ucsd.edu/label/11612/
-7146,BM_Roc,Other Invertebrates,Boring mollusc,,,Rocellaria dubia,Rocellaria dubia,https://coralnet.ucsd.edu/label/7146/
-11618,GM,Other Invertebrates,Grazing mollusc,,,,Grazing mollusc,https://coralnet.ucsd.edu/label/11618/
-3074,GM_Cer,Other Invertebrates,Grazing mollusc,,Cerithium sp,,Cerithium sp.,https://coralnet.ucsd.edu/label/3074/
-11613,GM_Cer_sca,Other Invertebrates,Grazing mollusc,,Cerithium sp,Cerithium scabridum,Cerithium scabridum,https://coralnet.ucsd.edu/label/11613/
-11614,GM_Cer_liv,Other Invertebrates,Grazing mollusc,,Cerithium sp,Cerithium lividulum,Cerithium lividulum,https://coralnet.ucsd.edu/label/11614/
-979,GM_Con,Other Invertebrates,Grazing mollusc,,,Conomurex persicus,Conomurex persicus,https://coralnet.ucsd.edu/label/979/
-11615,CTM,Other Invertebrates,Colonial tube-forming mollusc,,,,Colonial tube-forming mollusc,https://coralnet.ucsd.edu/label/11615/
-2796,CTM_Den,Hard substrate,Colonial tube-forming mollusc,,,Dendropoma cristatum,Dendropoma cristatum,https://coralnet.ucsd.edu/label/2796/
-11616,EA,Other Invertebrates,Encrusting arthropoda,,,,Encrusting arthropoda,https://coralnet.ucsd.edu/label/11616/
-11617,EA_Bal,Other Invertebrates,Encrusting arthropoda,,,Balanus perforatus,Balanus perforatus,https://coralnet.ucsd.edu/label/11617/
-2812,EA_Cht,Other Invertebrates,Encrusting arthropoda,,,Chthamalus stellatus,Chthamalus stellatus,https://coralnet.ucsd.edu/label/2812/
-8116,Ace_ace,Algae,,,,Acetabularia acetabulum,Acetabularia acetabulum,https://coralnet.ucsd.edu/label/8116/
-2143,Ana_ste,Algae,,,,Anadyomene stellata,Anadyomene stellata,https://coralnet.ucsd.edu/label/2143/
-9280,Cau_ust,Algae,,,,Caulacanthus ustulatus,Caulacanthus ustulatus,https://coralnet.ucsd.edu/label/9280/
-9774,Cau_cyl,Algae,,,,Caulerpa cylindracea,Caulerpa cylindracea,https://coralnet.ucsd.edu/label/9774/
-6045,Cau_mex,Algae,,,,Caulerpa mexicana,Caulerpa mexicana,https://coralnet.ucsd.edu/label/6045/
-3566,Cau_pro,Algae,,,,Caulerpa prolifera,Caulerpa prolifera,https://coralnet.ucsd.edu/label/3566/
-11631,Cau_sca,Algae,,,,Caulerpa scalpelliformis,Caulerpa scalpelliformis,https://coralnet.ucsd.edu/label/11631/
-11632,Cau_tax,Algae,,,,Caulerpa taxifolia,Caulerpa taxifolia,https://coralnet.ucsd.edu/label/11632/
-8748,Cod,Algae,,,Codium sp,,Codium sp.,https://coralnet.ucsd.edu/label/8748/
-11633,Cod_ara,Algae,,,Codium sp,Codium arabicum,Codium arabicum,https://coralnet.ucsd.edu/label/11633/
-8127,Cod_bur,Algae,,,,Codium bursa,Codium bursa,https://coralnet.ucsd.edu/label/8127/
-8129,Cod_eff,Algae,,,Codium sp,Codium effusum,Codium effusum,https://coralnet.ucsd.edu/label/8129/
-7221,Cod_par,Algae,,,Codium sp,Codium parvulum,Codium parvulum,https://coralnet.ucsd.edu/label/7221/
-3487,CodVerFra,Algae,,,,Codium vermilara_or_fragile,Codium vermilara/fragile,https://coralnet.ucsd.edu/label/3487/
-512,Col_sin,Algae,,,,Colpomenia sinuosa,Colpomenia sinuosa,https://coralnet.ucsd.edu/label/512/
-8504,Dic_pol,Algae,,,,Dictyopteris polypodioides,Dictyopteris polypodioides,https://coralnet.ucsd.edu/label/8504/
-3071,Dig_sim,Algae,,,,Digenea simplex,Digenea simplex,https://coralnet.ucsd.edu/label/3071/
-2115,Fla_pet,Algae,,,,Flabellia petiolata,Flabellia petiolata,https://coralnet.ucsd.edu/label/2115/
-11634,Fuc_vir,Algae,,,,Fucus virsoides,Fucus virsoides,https://coralnet.ucsd.edu/label/11634/
-2026,Gal_rug,Algae,,,,Galaxaura rugosa,Galaxaura rugosa,https://coralnet.ucsd.edu/label/2026/
-9776,Gan_far,Algae,,,,Ganonema farinosum,Ganonema farinosum,https://coralnet.ucsd.edu/label/9776/
-4428,Hal_inc,Algae,,,,Halimeda incrassata,Halimeda incrassata,https://coralnet.ucsd.edu/label/4428/
-7220,Hal_tun,Algae,,,,Halimeda tuna,Halimeda tuna,https://coralnet.ucsd.edu/label/7220/
-11635,Hal_incu,Algae,,,,Halopithys incurva,Halopithys incurva,https://coralnet.ucsd.edu/label/11635/
-3668,Hal_fil,Algae,,,,Halopteris filicina,Halopteris filicina,https://coralnet.ucsd.edu/label/3668/
-1907,Hal_sco,Algae,,,,Halopteris scoparia,Halopteris scoparia,https://coralnet.ucsd.edu/label/1907/
-11636,Lop_tri,Algae,,,,Lophocladia trichocladus,Lophocladia trichoclados,https://coralnet.ucsd.edu/label/11636/
-11637,Nem_elm,Algae,,,,Nemalion elminthoides,Nemalion elminthoides,https://coralnet.ucsd.edu/label/11637/
-2801,Pad_pav,Algae,,,,Padina pavonica,Padina pavonica,https://coralnet.ucsd.edu/label/2801/
-3693,Sph_cor,Algae,,,,Sphaerococcus coronopifolius,Sphaerococcus coronopifolius,https://coralnet.ucsd.edu/label/3693/
-11638,Ten_tor,Algae,,,,Tenarea tortuosa,Tenarea tortuosa,https://coralnet.ucsd.edu/label/11638/
-11639,Vid_vol,Algae,,,,Vidalia volubilis,Vidalia volubilis,https://coralnet.ucsd.edu/label/11639/
-3669,Zan_typ,Algae,,,,Zanardinia typus,Zanardinia typus,https://coralnet.ucsd.edu/label/3669/
-11640,Par_par,Algae,,,,Parvocaulis parvulus,Parvocaulis parvulus,https://coralnet.ucsd.edu/label/11640/
-11641,Sco_nic,Algae,,,,Schottera nicaeensis,Schottera nicaeensis,https://coralnet.ucsd.edu/label/11641/
-467,Sol_fil,Algae,,,,Solieria filiformis,Solieria filiformis,https://coralnet.ucsd.edu/label/467/
-11642,Seb_dic,Algae,,,,Sebdenia dichotoma,Sebdenia dichotoma,https://coralnet.ucsd.edu/label/11642/
-11643,Ral,Algae,,,Ralfsia sp,,Ralfsia sp.,https://coralnet.ucsd.edu/label/11643/
-7061,Cya,Algae,,,Cyanophytes sp,,Cyanophytes sp.,https://coralnet.ucsd.edu/label/7061/
-9230,ECA,Algae,Encrusting coralline algae,,,,Encrusting coralline algae,https://coralnet.ucsd.edu/label/9230/
-12016,ECA_DD,Algae,Encrusting coralline algae,,,,"Encrusting coralline algae, dead",https://coralnet.ucsd.edu/label/12016/
-11644,ECA_Lit,Algae,Encrusting coralline algae,,Lithophyllum sp,,Lithophyllum sp.,https://coralnet.ucsd.edu/label/11644/
-11645,ECA_Neo,Algae,Encrusting coralline algae,,Neogoniolithon sp,,Neogoniolithon sp.,https://coralnet.ucsd.edu/label/11645/
-10948,ECA_Pey,Algae,Encrusting coralline algae,,Peyssonnelia sp,,Peyssonnelia sp.,https://coralnet.ucsd.edu/label/10948/
-5734,ECA_Hil,Algae,Encrusting coralline algae,,Hildenbrandia sp,,Hildenbrandia sp.,https://coralnet.ucsd.edu/label/5734/
-11646,ECA_Tit,Algae,Encrusting coralline algae,,Titanoderma sp,,Titanoderma sp.,https://coralnet.ucsd.edu/label/11646/
-11647,ECA_Mes,Algae,Encrusting coralline algae,,,Mesophyllum lichenoides,Mesophyllum lichenoides,https://coralnet.ucsd.edu/label/11647/
-1591,CA_Amp,Algae,Coralline algae,,Amphiroa sp,,Amphiroa sp.,https://coralnet.ucsd.edu/label/1591/
-11648,CA_Cor,Algae,Coralline algae,,Corallina/Ellissolandia sp,,Amphiroa sp.,https://coralnet.ucsd.edu/label/11648/
-11649,CA_Jan,Algae,Coralline algae,,Jania sp,,Jania sp.,https://coralnet.ucsd.edu/label/11649/
-2122,Cys,Algae,,,Cystoseira sp,,Cystoseira sp.,https://coralnet.ucsd.edu/label/2122/
-2819,Cys_com,Algae,,,Cystoseira sp,Cystoseira compressa,Cystoseira compressa,https://coralnet.ucsd.edu/label/2819/
-11650,Cys_comvp,Algae,,,Cystoseira sp,Cystoseira compressa var pustulata,Cystoseira compressa var pustulata,https://coralnet.ucsd.edu/label/11650/
-11651,Cys_foe,Algae,,,Cystoseira sp,Cystoseira foeniculacea,Cystoseira foeniculacea,https://coralnet.ucsd.edu/label/11651/
-11652,Cys_foet,Algae,,,Cystoseira sp,Cystoseira foeniculacea f tenuiramosa,Cystoseira foeniculacea f tenuiramosa,https://coralnet.ucsd.edu/label/11652/
-11653,Cys_hum,Algae,,,Cystoseira sp,Cystoseira humilis,Cystoseira humilis,https://coralnet.ucsd.edu/label/11653/
-11654,Cys_pus,Algae,,,Cystoseira sp,Cystoseira pustulata,Cystoseira pustulata,https://coralnet.ucsd.edu/label/11654/
-11655,Eri_ame,Algae,,,Cystoseira sp,Ericaria amentacea,Ericaria amentacea,https://coralnet.ucsd.edu/label/11655/
-11656,Eri_cor,Algae,,,Cystoseira sp,Ericaria corniculata,Ericaria corniculata,https://coralnet.ucsd.edu/label/11656/
-11657,Eri_cri,Algae,,,Cystoseira sp,Ericaria crinita,Ericaria crinita,https://coralnet.ucsd.edu/label/11657/
-11658,Eri_dub,Algae,,,Cystoseira sp,Ericaria dubia,Ericaria dubia,https://coralnet.ucsd.edu/label/11658/
-11659,Eri_ele,Algae,,,Cystoseira sp,Ericaria elegans,Ericaria elegans,https://coralnet.ucsd.edu/label/11659/
-12095,Eri_bra,Algae,,,Cystoseira sp,Ericaria brachycarpa,Ericaria brachycarpa,https://coralnet.ucsd.edu/label/12095/
-7190,Gon_bar,Algae,,,Cystoseira sp,Gongolaria barbata,Gongolaria barbata,https://coralnet.ucsd.edu/label/7190/
-11660,Gon_mon,Algae,,,Cystoseira sp,Gongolaria montagnei,Gongolaria montagnei,https://coralnet.ucsd.edu/label/11660/
-11661,Gon_monvt,Algae,,,Cystoseira sp,Gongolaria montagnei var tenuior,Gongolaria montagnei var tenuior,https://coralnet.ucsd.edu/label/11661/
-11510,Gon_ray,Algae,,,Cystoseira sp,Gongolaria rayssiae,Gongolaria rayssiae,https://coralnet.ucsd.edu/label/11510/
-11662,Sar,Algae,,,Sargassum sp,,Sargassum sp.,https://coralnet.ucsd.edu/label/11662/
-11663,Sar_hor,Algae,,,Sargassum sp,Sargassum hornschuchii,Sargassum hornschuchii,https://coralnet.ucsd.edu/label/11663/
-797,Sar_mut,Algae,,,Sargassum sp,Sargassum muticum,Sargassum muticum,https://coralnet.ucsd.edu/label/797/
-11664,Sar_sal,Algae,,,Sargassum sp,Sargassum salicifolium,Sargassum salicifolium,https://coralnet.ucsd.edu/label/11664/
-2802,Sar_vul,Algae,,,Sargassum sp,Sargassum vulgare,Sargassum vulgare,https://coralnet.ucsd.edu/label/2802/
-6787,FA,Algae,Filamentous algae,,,,Filamentous algae,https://coralnet.ucsd.edu/label/6787/
-11665,FA_Cha,Algae,Filamentous algae,,Chaetomorpha sp,,Chaetomorpha sp.,https://coralnet.ucsd.edu/label/11665/
-425,FA_Cla,Algae,Filamentous algae,,Cladophora sp,,Cladophora sp.,https://coralnet.ucsd.edu/label/425/
-11666,FA_Lyc,Algae,Filamentous algae,,Lychaete sp,,Lychaete sp.,https://coralnet.ucsd.edu/label/11666/
-11667,FA_Wom,Algae,Filamentous algae,,,Womersleyella setacea,Womersleyella setacea,https://coralnet.ucsd.edu/label/11667/
-1815,FA_Cer,Algae,Filamentous algae,,Ceramium sp,,Ceramium sp.,https://coralnet.ucsd.edu/label/1815/
-11668,FA_Spy,Algae,Filamentous algae,,Spyridia sp,,Spyridia sp.,https://coralnet.ucsd.edu/label/11668/
-11669,FA_Acr,Algae,Filamentous algae,,,Acrothamnion preissii,Acrothamnion preissii,https://coralnet.ucsd.edu/label/11669/
-4240,FA_Wra,Algae,Filamentous algae,,,Wrangelia penicillata,Wrangelia penicillata,https://coralnet.ucsd.edu/label/4240/
-11670,FA_Spe,Algae,Filamentous algae,,Spermothamnion sp,,Spermothamnion sp.,https://coralnet.ucsd.edu/label/11670/
-11671,FA_Ver,Algae,Filamentous algae,,Vertebrata sp,,Vertebrata sp.,https://coralnet.ucsd.edu/label/11671/
-11672,FA_Xip,Algae,Filamentous algae,,Xiphosiphonia sp,,Xiphosiphonia sp.,https://coralnet.ucsd.edu/label/11672/
-10599,Ulv,Algae,,,Ulva sp,,Ulva sp.,https://coralnet.ucsd.edu/label/10599/
-10602,Bry,Algae,,,Bryopsis sp,,Bryopsis sp.,https://coralnet.ucsd.edu/label/10602/
-11673,Val,Algae,,,Valonia sp,,Valonia sp.,https://coralnet.ucsd.edu/label/11673/
-11674,Das,Algae,,,Dasycladus sp,,Dasycladus sp.,https://coralnet.ucsd.edu/label/11674/
-9489,Dic,Algae,,,Dictyota sp,,Dictyota sp.,https://coralnet.ucsd.edu/label/9489/
-9238,Rug,Algae,,,,Rugulopteryx okamurae,Rugulopteryx okamurae,https://coralnet.ucsd.edu/label/9238/
-2804,Sty,Algae,,,,Stypopodium schimperi,Stypopodium schimperi,https://coralnet.ucsd.edu/label/2804/
-11675,Tao,Algae,,,Taonia sp,,Taonia sp.,https://coralnet.ucsd.edu/label/11675/
-11676,Lob,Algae,,,,Lobophora schneideri,Lobophora schneideri,https://coralnet.ucsd.edu/label/11676/
-2803,Scy,Algae,,,,Scytosiphon lomentaria,Scytosiphon lomentaria,https://coralnet.ucsd.edu/label/2803/
-10144,Por,Algae,Blade-like red algae,,Porphyra sp,,Porphyra sp.,https://coralnet.ucsd.edu/label/10144/
-11677,Acr,Algae,Blade-like red algae,,Acrosorium sp,,Acrosorium sp.,https://coralnet.ucsd.edu/label/11677/
-796,Lau_mar,Algae,,,,Laurenciella marilzae,Laurenciella marilzae,https://coralnet.ucsd.edu/label/796/
-2798,Aca,Algae,,,,Acanthophora nayadiformis,Acanthophora nayadiformis,https://coralnet.ucsd.edu/label/2798/
-11678,Lau,Algae,Corticated algae,,Laurencia sp,,Laurencia sp.,https://coralnet.ucsd.edu/label/11678/
-11679,Plo,Algae,Corticated algae,,Plocamium sp,,Plocamium sp.,https://coralnet.ucsd.edu/label/11679/
-218,Asp,Algae,,,Asparagopsis sp,,Asparagopsis sp.,https://coralnet.ucsd.edu/label/218/
-2486,Asp_arm,Algae,,,Asparagopsis sp,Asparagopsis armata,Asparagopsis armata,https://coralnet.ucsd.edu/label/2486/
-1869,Asp_tax,Algae,,,Asparagopsis sp,Asparagopsis taxiformis,Asparagopsis taxiformis,https://coralnet.ucsd.edu/label/1869/
-1715,Bot,Algae,,,Botryocladia sp,,Botryocladia sp.,https://coralnet.ucsd.edu/label/1715/
-11680,CA,Algae,Corticated algae,,,,Corticated algae,https://coralnet.ucsd.edu/label/11680/
-9456,Gelm,Algae,Corticated algae,,Gelidium sp,,Gelidium sp.,https://coralnet.ucsd.edu/label/9456/
-11681,Gra,Algae,Corticated algae,,Gracilaria sp,,Gracilaria sp.,https://coralnet.ucsd.edu/label/11681/
-3209,Hyp,Algae,Corticated algae,,Hypnea sp,,Hypnea sp.,https://coralnet.ucsd.edu/label/3209/
-4425,Gel,Algae,Corticated algae,,Gelidiella sp,,Gelidiella sp.,https://coralnet.ucsd.edu/label/4425/
-6068,Pte,Algae,Corticated algae,,Pterocladiella sp,,Pterocladiella sp.,https://coralnet.ucsd.edu/label/6068/
-6025,Cha,Algae,Corticated algae,,Champia sp,,Champia sp.,https://coralnet.ucsd.edu/label/6025/
-10229,Gas,Algae,Corticated algae,,Gastroclonium sp,,Gastroclonium sp.,https://coralnet.ucsd.edu/label/10229/
-11682,Lom,Algae,Corticated algae,,Lomentaria sp,,Lomentaria sp.,https://coralnet.ucsd.edu/label/11682/
-1716,Rho,Algae,Corticated algae,,Rhodymenia sp,,Rhodymenia sp.,https://coralnet.ucsd.edu/label/1716/
-11683,Ryt_tin,Algae,,,,Rytiphlaea tinctoria,Rytiphlaea tinctoria,https://coralnet.ucsd.edu/label/11683/
-2027,Tri_fra,Algae,,,,Tricleocarpa fragilis,Tricleocarpa fragilis,https://coralnet.ucsd.edu/label/2027/
-1791,Lia,Algae,,,Liagora sp,,Liagora sp.,https://coralnet.ucsd.edu/label/1791/
-11684,BLRA,Algae,Blade-like red algae,,,,Blade-like red algae,https://coralnet.ucsd.edu/label/11684/
-7154,Rad,Algae,Blade-like red algae,,Radicilingua sp,,Radicilingua sp.,https://coralnet.ucsd.edu/label/7154/
-84,SAN,Soft Substrate,Sand,,,,Sand,https://coralnet.ucsd.edu/label/84/
-95,SED,Soft Substrate,Sediment,,,,Sediment,https://coralnet.ucsd.edu/label/95/
-815,MUD,Soft Substrate,Mud,,,,Mud,https://coralnet.ucsd.edu/label/815/
-3369,PEB,Soft Substrate,Pebbles,,,,Pebbles,https://coralnet.ucsd.edu/label/3369/
-515,ROC,Hard Substrate,Rock,,,,Rock,https://coralnet.ucsd.edu/label/515/
-6207,POS,Seagrass,Posidonia oceanica,,,,Posidonia oceanica,https://coralnet.ucsd.edu/label/6207/
-11685,PDM,Other,Dead matte,,,,Posidonia dead matte,https://coralnet.ucsd.edu/label/11685/
-7191,CYM,Seagrass,Cymodocea nodosa,,,,Cymodocea nodosa,https://coralnet.ucsd.edu/label/7191/
-2108,HAL,Seagrass,Halophyla stipulacea,,,,Halophila stipulacea,https://coralnet.ucsd.edu/label/2108/
-982,INV,Other Invertebrates,Other invertebrate,,,,Other invertebrate,https://coralnet.ucsd.edu/label/982/
-460,FIS,Other,Fish,,,,Fish,https://coralnet.ucsd.edu/label/460/
-7155,MUC,Other,Mucilage,,,,Mucilage,https://coralnet.ucsd.edu/label/7155/
-4145,UNI,Other,Unidentified,,,,Unidentified,https://coralnet.ucsd.edu/label/4145/
-2546,OTH,Other,Other,,,,Other,https://coralnet.ucsd.edu/label/2546/
-6200,TUR,Other,Turf,,,,Turf,https://coralnet.ucsd.edu/label/6200/
+CoralNet Functional Group,Morpho-Functional - Level 1,Morpho-Functional - Level 2,Genus/family level,Species level,"On CoralNet (Label present, Code adjusted, Existing label, manually Verified)",Label ID,Added to CoralNet,IORL Short code,Short Code,CoralNet Name,CoralNet Existing Name,CoralNet Description,CoralNet Existing Link
+Other Invertebrates,Encrusting sponge,,,,LCE,147,,,ES,Encrusting sponge,Encrusting sponge,Encrusting sponge,https://coralnet.ucsd.edu/label/147/
+Other Invertebrates,Encrusting sponge,encrusting sponge orange,,,LC,11586,,,ESO,Encrusting sponge orange,-,Encrusting sponge,https://coralnet.ucsd.edu/label/11586/
+Other Invertebrates,Encrusting sponge,encrusting sponge orange,,Scopalina lophiropoda,LC,11587,,,ESO_Sco,Scopalina lophiropoda,-,Encrusting sponge,https://coralnet.ucsd.edu/label/11587/
+Other Invertebrates,Encrusting sponge,encrusting sponge orange,,Haliclona fulva,LC,11588,,,ESO_Hal,Haliclona fulva,-,Encrusting sponge,https://coralnet.ucsd.edu/label/11588/
+Other Invertebrates,Encrusting sponge,,,Haliclona mucosa,LCE,3671,,,ES_Hal,Haliclona mucosa,Haliclona mucosa,Encrusting sponge,https://coralnet.ucsd.edu/label/3671/
+Other Invertebrates,Encrusting sponge,,,Hemimycale columella,LCE,3673,,,ES_Hem,Hemimycale columella,Hemimycale columella,Encrusting sponge,https://coralnet.ucsd.edu/label/3673/
+Other Invertebrates,Encrusting sponge,,,Hexadella racovitzai,LCE,8148,,,ES_Hex,Hexadella racovitzai,Hexadella racovitzai,Encrusting sponge,https://coralnet.ucsd.edu/label/8148/
+Other Invertebrates,Encrusting sponge,,Phorbas sp red,,LC,11589,,,ES_Pho_red,Phorbas sp. red,-,Encrusting sponge,https://coralnet.ucsd.edu/label/11589/
+Other Invertebrates,Encrusting sponge,,,Phorbas tenacior,LCE,1728,,,ES_Pho_ten,Phorbas tenacior,Phorbas tenacior,Encrusting sponge,https://coralnet.ucsd.edu/label/1728/
+Other Invertebrates,Encrusting sponge,,Plakina sp,,LC,11590,,,ES_Pla,Plakina sp.,-,Encrusting sponge,https://coralnet.ucsd.edu/label/11590/
+Other Invertebrates,Encrusting sponge,,,Pleraplysilla spinifera,LCE,7156,,,ES_Ple,Pleraplysilla spinifera,Pleraplysilla spinifera,Encrusting sponge,https://coralnet.ucsd.edu/label/7156/
+Other Invertebrates,Encrusting sponge,,,Terpios gelatinosus,LC,11591,,,ES_Ter,Terpios gelatinosus,-,Encrusting sponge,https://coralnet.ucsd.edu/label/11591/
+Other Invertebrates,Massive sponge,,,,LC,11592,,,MS,Massive sponge,-,Massive sponge,https://coralnet.ucsd.edu/label/11592/
+Other Invertebrates,Massive sponge,,,,LC,11994,,,MS_DD,"Massive sponge, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/11994/
+Other Invertebrates,Massive sponge,Black massive sponge,,,LC,11593,,,MS_black,Black massive sponge,-,Massive sponge,https://coralnet.ucsd.edu/label/11593/
+Other Invertebrates,Massive sponge,,,,LC,11995,,,MS_blackD,"Black massive sponge, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/11995/
+Other Invertebrates,Massive sponge,,,Chondrilla nucula,LCE,973,,,MS_Cho_nuc,Chondrilla nucula,Chondrilla nucula,Massive sponge,https://coralnet.ucsd.edu/label/973/
+Other Invertebrates,Massive sponge,,,,LC,11996,,,MS_Cho_nD,"Chondrilla nucula, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/11996/
+Other Invertebrates,Massive sponge,,,Chondrosia reniformis,LCE,7307,,,MS_Cho_ren,Chondrosia reniformis,Chondrosia reniformis,Massive sponge,https://coralnet.ucsd.edu/label/7307/
+Other Invertebrates,Massive sponge,,,,LC,11997,,,MS_Cho_rD,"Chondrosia reniformis, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/11997/
+Other Invertebrates,Massive sponge,,,Dysidea avara,LCE,1986,,,MS_Dys,Dysidea avara,Dysidea avara,Massive sponge,https://coralnet.ucsd.edu/label/1986/
+Other Invertebrates,Massive sponge,,Erylus sp,,LC,11594,,,MS_Ery,Erylus sp.,-,Massive sponge,https://coralnet.ucsd.edu/label/11594/
+Other Invertebrates,Massive sponge,,Erylus sp,Erylus euastrum,LC,11595,,,MS_Ery_eua,Erylus euastrum,-,Massive sponge,https://coralnet.ucsd.edu/label/11595/
+Other Invertebrates,Massive sponge,,Geodia sp,,LCE,3020,,,MS_Geo,Geodia sp.,Geodia sp.,Massive sponge,https://coralnet.ucsd.edu/label/3020/
+Other Invertebrates,Massive sponge,,,Haliclona mediterranea,LC,11596,,,MS_Hal,Haliclona (Reniera) mediterranea,-,Massive sponge,https://coralnet.ucsd.edu/label/11596/
+Other Invertebrates,Massive sponge,,,Hippospongia communis,LC,11597,,,MS_Hip,Hippospongia communis,-,Massive sponge,https://coralnet.ucsd.edu/label/11597/
+Other Invertebrates,Massive sponge,,,Ircinia fasciculata,LC,11598,,,MS_Irc_fas,Ircinia fasciculata,-,Massive sponge,https://coralnet.ucsd.edu/label/11598/
+Other Invertebrates,Massive sponge,,,,LC,11998,,,MS_Irc_fD,"Ircinia fasciculata, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/11998/
+Other Invertebrates,Massive sponge,,,Ircinia variabilis,LCE,2160,,,MS_Irc_var,Ircinia variabilis,Ircinia variabilis,Massive sponge,https://coralnet.ucsd.edu/label/2160/
+Other Invertebrates,Massive sponge,,,,LC,11999,,,MS_Irc_vD,"Ircinia variabilis, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/11999/
+Other Invertebrates,Massive sponge,,,Paraleucilla magna,LCE,4642,,,MS_Par,Paraleucilla magna,Paraleucilla magna,Massive sponge,https://coralnet.ucsd.edu/label/4642/
+Other Invertebrates,Massive sponge,,,Petrosia ficiformis,LCE,1255,,,MS_Pet,Petrosia ficiformis,Petrosia ficiformis,Massive sponge,https://coralnet.ucsd.edu/label/1255/
+Other Invertebrates,Massive sponge,,,,LC,12000,,,MS_Pet_DD,"Petrosia ficiformis, dead",-,Massive sponge,https://coralnet.ucsd.edu/label/12000/
+Other Invertebrates,Boring sponge,,,,LCE,4130,,,BS,Boring sponge,Boring sponge,Boring sponge,https://coralnet.ucsd.edu/label/4130/
+Other Invertebrates,Boring sponge,,Cliona sp,,LCE,3623,,,BS_Cli,Cliona sp.,Cliona sp.,Boring sponge,https://coralnet.ucsd.edu/label/3623/
+Other Invertebrates,Boring sponge,,,,LC,12001,,,BS_Cli_DD,"Cliona sp., dead",-,Boring sponge,https://coralnet.ucsd.edu/label/12001/
+Other Invertebrates,Boring sponge,,Cliona sp,Cliona celata,LCE,1147,,,BS_Cli_cel,Cliona celata,Cliona celata,Boring sponge,https://coralnet.ucsd.edu/label/1147/
+Other Invertebrates,Boring sponge,,Cliona sp,Cliona parenzani,LCE,7496,,,BS_Cli_par,Cliona parenzani,cliona parenzani,Boring sponge,https://coralnet.ucsd.edu/label/7496/
+Other Invertebrates,Boring sponge,,Cliona sp,Cliona viridis,LCE,7030,,,BS_Cli_vir,Cliona viridis,Cliona viridis,Boring sponge,https://coralnet.ucsd.edu/label/7030/
+Other Invertebrates,Animal feather,,,,LC,11599,,,AF,Animal feather,-,Animal feather,https://coralnet.ucsd.edu/label/11599/
+Other Invertebrates,Animal feather,,Hydrozoa sp,,LCE,1799,,,AF_Hyd,Hydrozoa,Hydrozoa,Animal feather,https://coralnet.ucsd.edu/label/1799/
+Other Invertebrates,Animal feather,,,Macrorhynchia philippina,LCE,1252,,,AF_Mac,Macrorhynchia philippina,Macrorhynchia philippina,Animal feather,https://coralnet.ucsd.edu/label/1252/
+Other Invertebrates,Animal feather,,,Maasella edwardsi,LC,11600,,,AF_Maa,Maasella edwardsi,-,Animal feather,https://coralnet.ucsd.edu/label/11600/
+Hard coral,Coral cup solitary,,,,LC,11601,,,CCS,Coral cup solitary,-,Coral cup solitary,https://coralnet.ucsd.edu/label/11601/
+Hard coral,Coral cup solitary,,,,LC,12002,,,CCS_DD,"Coral cup solitary, dead",-,Coral cup solitary,https://coralnet.ucsd.edu/label/12002/
+Hard coral,Coral cup solitary,,,Balanophyllia europaea,LCE,10081,,,CCS_Bal,Balanophyllia europaea,Balanophyllia europaea,Coral cup solitary,https://coralnet.ucsd.edu/label/10081/
+Hard coral,Coral cup solitary,,,,LC,12003,,,CCS_Bal_DD,"Balanophyllia europaea, dead",-,Coral cup solitary,https://coralnet.ucsd.edu/label/12003/
+Hard coral,Coral cup solitary,,,Leptopsammia pruvoti,LCE,3530,,,CCS_Lep,Leptopsammia pruvoti,Leptopsammia pruvoti,Coral cup solitary,https://coralnet.ucsd.edu/label/3530/
+Hard coral,Coral cup solitary,,,,LC,12004,,,CCS_Lep_DD,"Leptopsammia pruvoti, dead",-,Coral cup solitary,https://coralnet.ucsd.edu/label/12004/
+Hard coral,Coral cup solitary,,Caryophylia sp,,LCE,10911,,,CCS_Car,Caryophyllia sp.,Caryophyllia sp.,Coral cup solitary,https://coralnet.ucsd.edu/label/10911/
+Hard coral,Coral cup colonial,,,,LC,11602,,,CCC,Coral cup colonial,-,Coral cup colonial,https://coralnet.ucsd.edu/label/11602/
+Hard coral,Coral cup colonial,,,,LC,12005,,,CCC_DD,"Coral cup colonial, dead",-,Coral cup colonial,https://coralnet.ucsd.edu/label/12005/
+Other Invertebrates,Coral cup colonial,,,Astroides calycularis,LCE,8108,,,CCC_Ast,Astroides calycularis,Astroides calycularis,Coral cup colonial,https://coralnet.ucsd.edu/label/8108/
+Other Invertebrates,Coral cup colonial,,,,LC,12006,,,CCC_Ast_DD,"Astroides calycularis, dead",-,Coral cup colonial,https://coralnet.ucsd.edu/label/12006/
+Hard coral,Coral cup colonial,,,Hoplangia durotrix,LCE,8149,,,CCC_Hop,Hoplangia durotrix,Hoplangia durotrix,Coral cup colonial,https://coralnet.ucsd.edu/label/8149/
+Hard coral,Coral cup colonial,,,Madracis pharensis,LCE,1784,,,CCC_Mad,Madracis pharensis,Madracis pharensis,Coral cup colonial,https://coralnet.ucsd.edu/label/1784/
+Hard coral,Coral cup colonial,,,,LC,12007,,,CCC_Mad_DD,"Madracis pharensis, dead",-,Coral cup colonial,https://coralnet.ucsd.edu/label/12007/
+Hard coral,Coral cup colonial,,,Oculina patagonica,LCE,1250,,,CCC_Ocu,Oculina patagonica,Oculina patagonica,Coral cup colonial,https://coralnet.ucsd.edu/label/1250/
+Hard coral,Coral cup colonial,,,,LC,12008,,,CCC_Ocu_DD,"Oculina patagonica, dead",-,Coral cup colonial,https://coralnet.ucsd.edu/label/12008/
+Other Invertebrates,Coral cup colonial,,,Parazoanthus axinellae,LCE,7303,,,CCC_Par,Parazoanthus axinellae,Parazoanthus axinellae,Coral cup colonial,https://coralnet.ucsd.edu/label/7303/
+Other Invertebrates,Coral cup colonial,,,,LC,12009,,,CCC_Par_DD,"Parazoanthus axinellae, dead",-,Coral cup colonial,https://coralnet.ucsd.edu/label/12009/
+Hard coral,Coral cup colonial,,,Cladocora caespitosa,LCE,805,,,CCC_Cla,Cladocora caespitosa,Cladocora caespitosa,Coral cup colonial,https://coralnet.ucsd.edu/label/805/
+Hard coral,Coral cup colonial,,,,LC,12010,,,CCC_Cla_DD,"Cladocora caespitosa, dead",-,Coral cup colonial,https://coralnet.ucsd.edu/label/12010/
+Other Invertebrates,Encrusting bryozoans,,,,LCE,8211,,,EB,Encrusting bryozoans,Encrusting bryozoans,Encrusting bryozoans,https://coralnet.ucsd.edu/label/8211/
+Other Invertebrates,Encrusting bryozoans,,,,LC,12011,,,EB_DD,"Encrusting bryozoans, dead",-,Encrusting bryozoans,https://coralnet.ucsd.edu/label/12011/
+Other Invertebrates,Branching bryozoans,,,,LC,11603,,,BB,Branching bryozoans,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11603/
+Other Invertebrates,Branching bryozoans,,,,LC,12012,,,BB_DD,"Branching bryozoans, dead",-,Branching bryozoans,https://coralnet.ucsd.edu/label/12012/
+Other Invertebrates,Branching bryozoans,,,Dentiporella sardonica,LCE,3653,,,BB_Den,Dentiporella sardonica,Dentiporella sardonica,Branching bryozoans,https://coralnet.ucsd.edu/label/3653/
+Other Invertebrates,Branching bryozoans,Bushforming bryozoans,,,LC,11604,,,BBB,Bushforming bryozoans,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11604/
+Other Invertebrates,Branching bryozoans,Bushforming bryozoans,,Amathia verticillata,LCE,7584,,,BBB_Ama,Amathia verticillata,Amathia verticillata,Branching bryozoans,https://coralnet.ucsd.edu/label/7584/
+Other Invertebrates,Branching bryozoans,Bushforming bryozoans,,Tricellaria inopinata,LC,11605,,,BBB_Tri,Tricellaria inopinata,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11605/
+Other Invertebrates,Branching bryozoans,Random branching bryozoans,,Myriapora truncata,LCE,3661,,,BBR_Myr,Myriapora truncata,Myriapora truncata,Branching bryozoans,https://coralnet.ucsd.edu/label/3661/
+Other Invertebrates,Branching bryozoans,,,,LC,12013,,,BBR_Myr_DD,"Myriapora truncata, dead",-,Branching bryozoans,https://coralnet.ucsd.edu/label/12013/
+Other Invertebrates,Branching bryozoans,Multilayered branching bryozoan,,,LC,11606,,,BBM,Multilayered branching bryozoan,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11606/
+Other Invertebrates,Branching bryozoans,Multilayered branching bryozoan,,Pentapora fascialis,LCE,3662,,,BBM_Pen,Pentapora fascialis,Pentapora fascialis,Branching bryozoans,https://coralnet.ucsd.edu/label/3662/
+Other Invertebrates,Branching bryozoans,,,,LC,12014,,,BBM_Pen_DD,"Pentapora fascialis, dead",-,Branching bryozoans,https://coralnet.ucsd.edu/label/12014/
+Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans ,,,LC,11607,,,BBF,Fan-shaped bryozoans,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11607/
+Other Invertebrates,Branching bryozoans,,,,LC,12015,,,BBF_DD,"Fan-shaped bryozoans, dead",-,Branching bryozoans,https://coralnet.ucsd.edu/label/12015/
+Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans ,,Reteporella grimaldii,LC,11608,,,BBF_RetGri,Reteporella grimaldii,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11608/
+Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans ,,Hornera frondiculata,LCE,8150,,,BBF_Hor,Hornera frondiculata,Hornera frondiculata,Branching bryozoans,https://coralnet.ucsd.edu/label/8150/
+Other Invertebrates,Branching bryozoans,Fan-shaped bryozoans ,Reteporella sp,,LC,11609,,,BBF_Ret,Reteporella sp.,-,Branching bryozoans,https://coralnet.ucsd.edu/label/11609/
+Other Invertebrates,Ligh-bulb ascidians,,,,LC,11610,,,LBA,Light-bulb ascidians,-,Light-bulb ascidians,https://coralnet.ucsd.edu/label/11610/
+Other Invertebrates,Ligh-bulb ascidians,,Clavelina sp,,LCE,2126,,,LBA_Cla,Clavelina sp.,Clavelina sp,Light-bulb ascidians,https://coralnet.ucsd.edu/label/2126/
+Other Invertebrates,Solitary ascidians,,,,LCE,8215,,,SA,Solitary ascidians,Solitary ascidians,Solitary ascidians,https://coralnet.ucsd.edu/label/8215/
+Other Invertebrates,Encrusting tunicates,,,,LCE,7994,,,ET,Encrusting tunicates,Encrusting Tunicates,Encrusting tunicates,https://coralnet.ucsd.edu/label/7994/
+Other Invertebrates,Encrusting tunicates,,Botrylloides sp,,LCE,488,,,ET_Bot,Botrylloides sp.,Botrylloides sp.,Encrusting tunicates,https://coralnet.ucsd.edu/label/488/
+Other Invertebrates,Encrusting tunicates,,Didemnidae sp,,LC,11611,,,ET_Did,Didemnidae sp.,-,Encrusting tunicates,https://coralnet.ucsd.edu/label/11611/
+Other Invertebrates,Encrusting tunicates,,,Polysyncraton lacazei,LCE,8174,,,ET_Pol_lac,Polysyncraton lacazei,Polysyncraton lacazei,Encrusting tunicates,https://coralnet.ucsd.edu/label/8174/
+Other Invertebrates,Encrusting tunicates,,,Polyandrocarpa zorritensis,LCE,9792,,,ET_Pol_zor,Polyandrocarpa zorritensis,Polyandrocarpa zorritensis,Encrusting tunicates,https://coralnet.ucsd.edu/label/9792/
+Other Invertebrates,Boring mollusc,,,,LC,11612,,,BM,Boring mollusc,-,Boring mollusc,https://coralnet.ucsd.edu/label/11612/
+Other Invertebrates,Boring mollusc,,,Rocellaria dubia,LCE,7146,,,BM_Roc,Rocellaria dubia,Rocellaria dubia,Boring mollusc,https://coralnet.ucsd.edu/label/7146/
+Other Invertebrates,Grazing mollusc,,,,LC,11618,,,GM,Grazing mollusc,-,Grazing mollusc,https://coralnet.ucsd.edu/label/11618/
+Other Invertebrates,Grazing mollusc,,Cerithium sp,,LCE,3074,,,GM_Cer,Cerithium sp.,Cerithium sp.,Grazing mollusc,https://coralnet.ucsd.edu/label/3074/
+Other Invertebrates,Grazing mollusc,,Cerithium sp,Cerithium scabridum,LC,11613,,,GM_Cer_sca,Cerithium scabridum,-,Grazing mollusc,https://coralnet.ucsd.edu/label/11613/
+Other Invertebrates,Grazing mollusc,,Cerithium sp,Cerithium lividulum,LC,11614,,,GM_Cer_liv,Cerithium lividulum,-,Grazing mollusc,https://coralnet.ucsd.edu/label/11614/
+Other Invertebrates,Grazing mollusc,,,Conomurex persicus,LCE,979,,,GM_Con,Conomurex persicus,conomurex persicus,Grazing mollusc,https://coralnet.ucsd.edu/label/979/
+Other Invertebrates,Colonial tube-forming mollusc,,,,LC,11615,,,CTM,Colonial tube-forming mollusc,-,Colonial tube-forming mollusc,https://coralnet.ucsd.edu/label/11615/
+Hard substrate,Colonial tube-forming mollusc,,,Dendropoma cristatum,LCE,2796,,,CTM_Den,Dendropoma cristatum,Dendropoma cristatum,Colonial tube-forming mollusc,https://coralnet.ucsd.edu/label/2796/
+Other Invertebrates,Encrusting arthropoda,,,,LC,11616,,,EA,Encrusting arthropoda,-,Encrusting arthropoda,https://coralnet.ucsd.edu/label/11616/
+Other Invertebrates,Encrusting arthropoda,,,Balanus perforatus,LC,11617,,,EA_Bal,Balanus perforatus,-,Encrusting arthropoda,https://coralnet.ucsd.edu/label/11617/
+Other Invertebrates,Encrusting arthropoda,,,Chthamalus stellatus,LCE,2812,,,EA_Cht,Chthamalus stellatus,Chthamalus stellatus,Encrusting arthropoda,https://coralnet.ucsd.edu/label/2812/
+Algae,,,,Acetabularia acetabulum,LCE,8116,,,Ace_ace,Acetabularia acetabulum,Acetabularia acetabulum,Algae,https://coralnet.ucsd.edu/label/8116/
+Algae,,,,Anadyomene stellata,LCE,2143,,,Ana_ste,Anadyomene stellata,Anadyomene stellata,Algae,https://coralnet.ucsd.edu/label/2143/
+Algae,,,,Caulacanthus ustulatus,LCE,9280,,,Cau_ust,Caulacanthus ustulatus,Caulacanthus ustulatus,Algae,https://coralnet.ucsd.edu/label/9280/
+Algae,,,,Caulerpa cylindracea,LCE,9774,,,Cau_cyl,Caulerpa cylindracea,Caulerpa cylindracea,Algae,https://coralnet.ucsd.edu/label/9774/
+Algae,,,,Caulerpa mexicana,LCE,6045,,,Cau_mex,Caulerpa mexicana,Caulerpa mexicana,Algae,https://coralnet.ucsd.edu/label/6045/
+Algae,,,,Caulerpa prolifera,LCE,3566,,,Cau_pro,Caulerpa prolifera,Caulerpa prolifera,Algae,https://coralnet.ucsd.edu/label/3566/
+Algae,,,,Caulerpa scalpelliformis,LC,11631,,,Cau_sca,Caulerpa scalpelliformis,-,Algae,https://coralnet.ucsd.edu/label/11631/
+Algae,,,,Caulerpa taxifolia,LC,11632,,,Cau_tax,Caulerpa taxifolia,-,Algae,https://coralnet.ucsd.edu/label/11632/
+Algae,,,Codium sp,,LCE,8748,,,Cod,Codium sp.,Codium sp.,Algae,https://coralnet.ucsd.edu/label/8748/
+Algae,,,Codium sp,Codium arabicum,LC,11633,,,Cod_ara,Codium arabicum,-,Algae,https://coralnet.ucsd.edu/label/11633/
+Algae,,,,Codium bursa,LCE,8127,,,Cod_bur,Codium bursa,Codium bursa,Algae,https://coralnet.ucsd.edu/label/8127/
+Algae,,,Codium sp,Codium effusum,LCE,8129,,,Cod_eff,Codium effusum,Codium effusum,Algae,https://coralnet.ucsd.edu/label/8129/
+Algae,,,Codium sp,Codium parvulum,LCE,7221,,,Cod_par,Codium parvulum,Codium parvulum,Algae,https://coralnet.ucsd.edu/label/7221/
+Algae,,,,Codium vermilara_or_fragile,LCE,3487,,,CodVerFra,Codium vermilara/fragile,Codium vermilara/fragile,Algae,https://coralnet.ucsd.edu/label/3487/
+Algae,,,,Colpomenia sinuosa,LCE,512,,,Col_sin,Colpomenia sinuosa,Colpomenia sinuosa,Algae,https://coralnet.ucsd.edu/label/512/
+Algae,,,,Dictyopteris polypodioides,LCE,8504,,,Dic_pol,Dictyopteris polypodioides,Dictyopteris polypodioides,Algae,https://coralnet.ucsd.edu/label/8504/
+Algae,,,,Digenea simplex,LCE,3071,,,Dig_sim,Digenea simplex,Digenea simplex,Algae,https://coralnet.ucsd.edu/label/3071/
+Algae,,,,Flabellia petiolata,LCE,2115,,,Fla_pet,Flabellia petiolata,Flabellia petiolata,Algae,https://coralnet.ucsd.edu/label/2115/
+Algae,,,,Fucus virsoides,LC,11634,,,Fuc_vir,Fucus virsoides,-,Algae,https://coralnet.ucsd.edu/label/11634/
+Algae,,,,Galaxaura rugosa,LCE,2026,,,Gal_rug,Galaxaura rugosa,Galaxaura rugosa,Algae,https://coralnet.ucsd.edu/label/2026/
+Algae,,,,Ganonema farinosum,LCE,9776,,,Gan_far,Ganonema farinosum,Ganonema farinosum,Algae,https://coralnet.ucsd.edu/label/9776/
+Algae,,,,Halimeda incrassata,LCE,4428,,,Hal_inc,Halimeda incrassata,Halimeda incrassata,Algae,https://coralnet.ucsd.edu/label/4428/
+Algae,,,,Halimeda tuna,LCE,7220,,,Hal_tun,Halimeda tuna,Halimeda tuna,Algae,https://coralnet.ucsd.edu/label/7220/
+Algae,,,,Halopithys incurva,LC,11635,,,Hal_incu,Halopithys incurva,-,Algae,https://coralnet.ucsd.edu/label/11635/
+Algae,,,,Halopteris filicina,LCE,3668,,,Hal_fil,Halopteris filicina,Halopteris filicina,Algae,https://coralnet.ucsd.edu/label/3668/
+Algae,,,,Halopteris scoparia,LCE,1907,,,Hal_sco,Halopteris scoparia,Halopteris scoparia,Algae,https://coralnet.ucsd.edu/label/1907/
+Algae,,,,Lophocladia trichocladus,LC,11636,,,Lop_tri,Lophocladia trichoclados,-,Algae,https://coralnet.ucsd.edu/label/11636/
+Algae,,,,Nemalion elminthoides,LC,11637,,,Nem_elm,Nemalion elminthoides,-,Algae,https://coralnet.ucsd.edu/label/11637/
+Algae,,,,Padina pavonica,LCE,2801,,,Pad_pav,Padina pavonica,Padina pavonica,Algae,https://coralnet.ucsd.edu/label/2801/
+Algae,,,,Sphaerococcus coronopifolius,LCE,3693,,,Sph_cor,Sphaerococcus coronopifolius,Sphaerococcus coronopifolius,Algae,https://coralnet.ucsd.edu/label/3693/
+Algae,,,,Tenarea tortuosa,LC,11638,,,Ten_tor,Tenarea tortuosa,-,Algae,https://coralnet.ucsd.edu/label/11638/
+Algae,,,,Vidalia volubilis,LC,11639,,,Vid_vol,Vidalia volubilis,-,Algae,https://coralnet.ucsd.edu/label/11639/
+Algae,,,,Zanardinia typus,LCE,3669,,,Zan_typ,Zanardinia typus,Zanardinia typus,Algae,https://coralnet.ucsd.edu/label/3669/
+Algae,,,,Parvocaulis parvulus,LC,11640,,,Par_par,Parvocaulis parvulus,-,Algae,https://coralnet.ucsd.edu/label/11640/
+Algae,,,,Schottera nicaeensis,LC,11641,,,Sco_nic,Schottera nicaeensis,-,Algae,https://coralnet.ucsd.edu/label/11641/
+Algae,,,,Solieria filiformis,LCE,467,,,Sol_fil,Solieria filiformis,Solieria filiformis,Algae,https://coralnet.ucsd.edu/label/467/
+Algae,,,,Sebdenia dichotoma,LC,11642,,,Seb_dic,Sebdenia dichotoma,-,Algae,https://coralnet.ucsd.edu/label/11642/
+Algae,,,Ralfsia sp,,LC,11643,,,Ral,Ralfsia sp.,-,Algae,https://coralnet.ucsd.edu/label/11643/
+Algae,,,Cyanophytes sp,,LCE,7061,,,Cya,Cyanophytes sp.,Cyanophyceae,Algae,https://coralnet.ucsd.edu/label/7061/
+Algae,Encrusting coralline algae,,,,LCE,9230,,,ECA,Encrusting coralline algae,Encrusting Coralline Algae,Encrusting coralline algae,https://coralnet.ucsd.edu/label/9230/
+Algae,Encrusting coralline algae,,,,LC,12016,,,ECA_DD,"Encrusting coralline algae, dead",-,Encrusting coralline algae,https://coralnet.ucsd.edu/label/12016/
+Algae,Encrusting coralline algae,,Lithophyllum sp,,LC,11644,,,ECA_Lit,Lithophyllum sp.,-,Encrusting coralline algae,https://coralnet.ucsd.edu/label/11644/
+Algae,Encrusting coralline algae,,Neogoniolithon sp,,LC,11645,,,ECA_Neo,Neogoniolithon sp.,-,Encrusting coralline algae,https://coralnet.ucsd.edu/label/11645/
+Algae,Encrusting coralline algae,,Peyssonnelia sp,,LCE,10948,,,ECA_Pey,Peyssonnelia sp.,Peyssonnelia sp.,Encrusting coralline algae,https://coralnet.ucsd.edu/label/10948/
+Algae,Encrusting coralline algae,,Hildenbrandia sp,,LCE,5734,,,ECA_Hil,Hildenbrandia sp.,Hildenbrandia Sp.,Encrusting coralline algae,https://coralnet.ucsd.edu/label/5734/
+Algae,Encrusting coralline algae,,Titanoderma sp,,LC,11646,,,ECA_Tit,Titanoderma sp.,-,Encrusting coralline algae,https://coralnet.ucsd.edu/label/11646/
+Algae,Encrusting coralline algae,,,Mesophyllum lichenoides,LC,11647,,,ECA_Mes,Mesophyllum lichenoides,-,Encrusting coralline algae,https://coralnet.ucsd.edu/label/11647/
+Algae,Coralline algae,,Amphiroa sp,,LCE,1591,,,CA_Amp,Amphiroa sp.,Amphiroa sp.,Coralline algae,https://coralnet.ucsd.edu/label/1591/
+Algae,Coralline algae,,Corallina/Ellissolandia sp,,LC,11648,,,CA_Cor,Amphiroa sp.,-,Coralline algae,https://coralnet.ucsd.edu/label/11648/
+Algae,Coralline algae,,Jania sp,,LC,11649,,,CA_Jan,Jania sp.,-,Coralline algae,https://coralnet.ucsd.edu/label/11649/
+Algae,,,Cystoseira sp,,LCE,2122,,,Cys,Cystoseira sp.,Cystoseira sp,Canopy algae,https://coralnet.ucsd.edu/label/2122/
+Algae,,,Cystoseira sp,Cystoseira compressa,LCE,2819,,,Cys_com,Cystoseira compressa,Cystoseira compressa,Canopy algae,https://coralnet.ucsd.edu/label/2819/
+Algae,,,Cystoseira sp,Cystoseira compressa var pustulata,LC,11650,,,Cys_comvp,Cystoseira compressa var pustulata,-,Canopy algae,https://coralnet.ucsd.edu/label/11650/
+Algae,,,Cystoseira sp,Cystoseira foeniculacea,LC,11651,,,Cys_foe,Cystoseira foeniculacea,-,Canopy algae,https://coralnet.ucsd.edu/label/11651/
+Algae,,,Cystoseira sp,Cystoseira foeniculacea f tenuiramosa,LC,11652,,,Cys_foet,Cystoseira foeniculacea f tenuiramosa,-,Canopy algae,https://coralnet.ucsd.edu/label/11652/
+Algae,,,Cystoseira sp,Cystoseira humilis,LC,11653,,,Cys_hum,Cystoseira humilis,-,Canopy algae,https://coralnet.ucsd.edu/label/11653/
+Algae,,,Cystoseira sp,Cystoseira pustulata,LC,11654,,,Cys_pus,Cystoseira pustulata,-,Canopy algae,https://coralnet.ucsd.edu/label/11654/
+Algae,,,Cystoseira sp,Ericaria amentacea,LC,11655,,,Eri_ame,Ericaria amentacea,-,Canopy algae,https://coralnet.ucsd.edu/label/11655/
+Algae,,,Cystoseira sp,Ericaria corniculata,LC,11656,,,Eri_cor,Ericaria corniculata,-,Canopy algae,https://coralnet.ucsd.edu/label/11656/
+Algae,,,Cystoseira sp,Ericaria crinita,LC,11657,,,Eri_cri,Ericaria crinita,-,Canopy algae,https://coralnet.ucsd.edu/label/11657/
+Algae,,,Cystoseira sp,Ericaria dubia,LC,11658,,,Eri_dub,Ericaria dubia,-,Canopy algae,https://coralnet.ucsd.edu/label/11658/
+Algae,,,Cystoseira sp,Ericaria elegans,LC,11659,,,Eri_ele,Ericaria elegans,-,Canopy algae,https://coralnet.ucsd.edu/label/11659/
+Algae,,,Cystoseira sp,Ericaria brachycarpa,LC,12095,2026-05-18,,Eri_bra,Ericaria brachycarpa,-,Canopy algae,https://coralnet.ucsd.edu/label/12095/
+Algae,,,Cystoseira sp,Gongolaria barbata,LCE,7190,,,Gon_bar,Gongolaria barbata,Gongolaria barbata,Canopy algae,https://coralnet.ucsd.edu/label/7190/
+Algae,,,Cystoseira sp,Gongolaria montagnei,LC,11660,,,Gon_mon,Gongolaria montagnei,-,Canopy algae,https://coralnet.ucsd.edu/label/11660/
+Algae,,,Cystoseira sp,Gongolaria montagnei var tenuior,LC,11661,,,Gon_monvt,Gongolaria montagnei var tenuior,-,Canopy algae,https://coralnet.ucsd.edu/label/11661/
+Algae,,,Cystoseira sp,Gongolaria rayssiae,LCE,11510,,,Gon_ray,Gongolaria rayssiae,Gongolaria rayssiae,Canopy algae,https://coralnet.ucsd.edu/label/11510/
+Algae,,,Sargassum sp,,LC,11662,,,Sar,Sargassum sp.,-,Canopy algae,https://coralnet.ucsd.edu/label/11662/
+Algae,,,Sargassum sp,Sargassum hornschuchii,LC,11663,,,Sar_hor,Sargassum hornschuchii,-,Canopy algae,https://coralnet.ucsd.edu/label/11663/
+Algae,,,Sargassum sp,Sargassum muticum,LCE,797,,,Sar_mut,Sargassum muticum,Sargassum muticum,Canopy algae,https://coralnet.ucsd.edu/label/797/
+Algae,,,Sargassum sp,Sargassum salicifolium,LC,11664,,,Sar_sal,Sargassum salicifolium,-,Canopy algae,https://coralnet.ucsd.edu/label/11664/
+Algae,,,Sargassum sp,Sargassum vulgare,LCE,2802,,,Sar_vul,Sargassum vulgare,Sargassum vulgare,Canopy algae,https://coralnet.ucsd.edu/label/2802/
+Algae,Filamentous algae,,,,LCE,6787,,,FA,Filamentous algae,-,Filamentous algae,https://coralnet.ucsd.edu/label/6787/
+Algae,Filamentous algae,,Chaetomorpha sp,,LC,11665,,,FA_Cha,Chaetomorpha sp.,-,Filamentous algae,https://coralnet.ucsd.edu/label/11665/
+Algae,Filamentous algae,,Cladophora sp,,LCE,425,,,FA_Cla,Cladophora sp.,Cladophora sp.,Filamentous algae,https://coralnet.ucsd.edu/label/425/
+Algae,Filamentous algae,,Lychaete sp,,LC,11666,,,FA_Lyc,Lychaete sp.,-,Filamentous algae,https://coralnet.ucsd.edu/label/11666/
+Algae,Filamentous algae,,,Womersleyella setacea,LC,11667,,,FA_Wom,Womersleyella setacea,-,Filamentous algae,https://coralnet.ucsd.edu/label/11667/
+Algae,Filamentous algae,,Ceramium sp,,LCE,1815,,,FA_Cer,Ceramium sp.,Ceramium sp.,Filamentous algae,https://coralnet.ucsd.edu/label/1815/
+Algae,Filamentous algae,,Spyridia sp,,LC,11668,,,FA_Spy,Spyridia sp.,-,Filamentous algae,https://coralnet.ucsd.edu/label/11668/
+Algae,Filamentous algae,,,Acrothamnion preissii,LC,11669,,,FA_Acr,Acrothamnion preissii,-,Filamentous algae,https://coralnet.ucsd.edu/label/11669/
+Algae,Filamentous algae,,,Wrangelia penicillata,LCE,4240,,,FA_Wra,Wrangelia penicillata,Wrangelia penicillata,Filamentous algae,https://coralnet.ucsd.edu/label/4240/
+Algae,Filamentous algae,,Spermothamnion sp,,LC,11670,,,FA_Spe,Spermothamnion sp.,-,Filamentous algae,https://coralnet.ucsd.edu/label/11670/
+Algae,Filamentous algae,,Vertebrata sp,,LC,11671,,,FA_Ver,Vertebrata sp.,-,Filamentous algae,https://coralnet.ucsd.edu/label/11671/
+Algae,Filamentous algae,,Xiphosiphonia sp,,LC,11672,,,FA_Xip,Xiphosiphonia sp.,-,Filamentous algae,https://coralnet.ucsd.edu/label/11672/
+Algae,,,Ulva sp,,LCE,10599,,,Ulv,Ulva sp.,Ulva sp.,Algae,https://coralnet.ucsd.edu/label/10599/
+Algae,,,Bryopsis sp,,LCE,10602,,,Bry,Bryopsis sp.,Bryopsis sp.,Algae,https://coralnet.ucsd.edu/label/10602/
+Algae,,,Valonia sp,,LC,11673,,,Val,Valonia sp.,-,Algae,https://coralnet.ucsd.edu/label/11673/
+Algae,,,Dasycladus sp,,LC,11674,,,Das,Dasycladus sp.,-,Algae,https://coralnet.ucsd.edu/label/11674/
+Algae,,,Dictyota sp,,LCE,9489,,,Dic,Dictyota sp.,Dictyota sp.,Algae,https://coralnet.ucsd.edu/label/9489/
+Algae,,,,Rugulopteryx okamurae,LCE,9238,,,Rug,Rugulopteryx okamurae,Rugulopteryx okamurae,Algae,https://coralnet.ucsd.edu/label/9238/
+Algae,,,,Stypopodium schimperi,LCE,2804,,,Sty,Stypopodium schimperi,Stypopodium schimperi,Algae,https://coralnet.ucsd.edu/label/2804/
+Algae,,,Taonia sp,,LC,11675,,,Tao,Taonia sp.,-,Algae,https://coralnet.ucsd.edu/label/11675/
+Algae,,,,Lobophora schneideri,LC,11676,,,Lob,Lobophora schneideri,-,Algae,https://coralnet.ucsd.edu/label/11676/
+Algae,,,,Scytosiphon lomentaria,LCE,2803,,,Scy,Scytosiphon lomentaria,Scytosiphon lomentaria,Algae,https://coralnet.ucsd.edu/label/2803/
+Algae,Blade-like red algae,,Porphyra sp,,LCE,10144,,,Por,Porphyra sp.,Porphyra sp.,Algae,https://coralnet.ucsd.edu/label/10144/
+Algae,Blade-like red algae,,Acrosorium sp,,LC,11677,,,Acr,Acrosorium sp.,-,Algae,https://coralnet.ucsd.edu/label/11677/
+Algae,,,,Laurenciella marilzae,LCE,796,,,Lau_mar,Laurenciella marilzae,laurenciella marilzae,Algae,https://coralnet.ucsd.edu/label/796/
+Algae,,,,Acanthophora nayadiformis,LCE,2798,,,Aca,Acanthophora nayadiformis,Acanthophora nayadiformis,Algae,https://coralnet.ucsd.edu/label/2798/
+Algae,Corticated algae,,Laurencia sp,,LC,11678,,,Lau,Laurencia sp.,-,Algae,https://coralnet.ucsd.edu/label/11678/
+Algae,Corticated algae,,Plocamium sp,,LC,11679,,,Plo,Plocamium sp.,-,Algae,https://coralnet.ucsd.edu/label/11679/
+Algae,,,Asparagopsis sp,,LCE,218,,,Asp,Asparagopsis sp.,Asparagopsis,Algae,https://coralnet.ucsd.edu/label/218/
+Algae,,,Asparagopsis sp,Asparagopsis armata,LCE,2486,,,Asp_arm,Asparagopsis armata,Asparagopsis armata,Algae,https://coralnet.ucsd.edu/label/2486/
+Algae,,,Asparagopsis sp,Asparagopsis taxiformis,LCE,1869,,,Asp_tax,Asparagopsis taxiformis,Asparagopsis taxiformis,Algae,https://coralnet.ucsd.edu/label/1869/
+Algae,,,Botryocladia sp,,LCE,1715,,,Bot,Botryocladia sp.,Botryocladia Sp.,Algae,https://coralnet.ucsd.edu/label/1715/
+Algae,Corticated algae,,,,LC,11680,,,CA,Corticated algae,-,Corticated algae,https://coralnet.ucsd.edu/label/11680/
+Algae,Corticated algae,,Gelidium sp,,LCE,9456,,,Gelm,Gelidium sp.,Gelidium sp.,Corticated algae,https://coralnet.ucsd.edu/label/9456/
+Algae,Corticated algae,,Gracilaria sp,,LC,11681,,,Gra,Gracilaria sp.,-,Corticated algae,https://coralnet.ucsd.edu/label/11681/
+Algae,Corticated algae,,Hypnea sp,,LCE,3209,,,Hyp,Hypnea sp.,Hypnea,Corticated algae,https://coralnet.ucsd.edu/label/3209/
+Algae,Corticated algae,,Gelidiella sp,,LCE,4425,,,Gel,Gelidiella sp.,Gelidiella spp.,Corticated algae,https://coralnet.ucsd.edu/label/4425/
+Algae,Corticated algae,,Pterocladiella sp,,LCE,6068,,,Pte,Pterocladiella sp.,Pterocladiella,Corticated algae,https://coralnet.ucsd.edu/label/6068/
+Algae,Corticated algae,,Champia sp,,LCE,6025,,,Cha,Champia sp.,Champia spp,Corticated algae,https://coralnet.ucsd.edu/label/6025/
+Algae,Corticated algae,,Gastroclonium sp,,LCE,10229,,,Gas,Gastroclonium sp.,Gastroclonium,Corticated algae,https://coralnet.ucsd.edu/label/10229/
+Algae,Corticated algae,,Lomentaria sp,,LC,11682,,,Lom,Lomentaria sp.,-,Corticated algae,https://coralnet.ucsd.edu/label/11682/
+Algae,Corticated algae,,Rhodymenia sp,,LCE,1716,,,Rho,Rhodymenia sp.,Rhodymenia Sp.,Algae,https://coralnet.ucsd.edu/label/1716/
+Algae,Corticated algae,,Cladostephus sp,Cladostephus spongiosus,LCE,11476,2026-07-27,,Cla_spo,Cladostephus spongiosus,Cladostephus spongiosus,Algae,https://coralnet.ucsd.edu/label/11476/
+Algae,,,,Rytiphlaea tinctoria,LC,11683,,,Ryt_tin,Rytiphlaea tinctoria,-,Algae,https://coralnet.ucsd.edu/label/11683/
+Algae,,,,Tricleocarpa fragilis,LCE,2027,,,Tri_fra,Tricleocarpa fragilis,Tricleocarpa fragilis,Algae,https://coralnet.ucsd.edu/label/2027/
+Algae,,,Liagora sp,,LCE,1791,,,Lia,Liagora sp.,Liagora,Algae,https://coralnet.ucsd.edu/label/1791/
+Algae,Blade-like red algae,,,,LC,11684,,,BLRA,Blade-like red algae,-,Algae,https://coralnet.ucsd.edu/label/11684/
+Algae,Blade-like red algae,,Radicilingua sp,,LCE,7154,,,Rad,Radicilingua sp.,Radicilingua sp.,Algae,https://coralnet.ucsd.edu/label/7154/
+Algae,Corticated algae,,Chondria sp,Chondria dasyphylla,LCE,6836,2026-07-27,,Cho_das,Chondria dasyphylla,Chondria dasyphylla,Algae,https://coralnet.ucsd.edu/label/6836/
+Algae,,,,Hydroclathrus tumuli,LC,12350,2026-07-27,,Hyd,Hydroclathrus tumuli,-,Algae,https://coralnet.ucsd.edu/label/12350/
+Algae,,,,Zonaria tournefortii,LCE,505,2026-08-31,,Zon_tou,Zonaria tournefortii,Zonaria tournefortii,Algae,https://coralnet.ucsd.edu/label/505/
+Soft Substrate,Sand,,,,LC,84,,,SAN,Sand,Sand,Sand,https://coralnet.ucsd.edu/label/84/
+Soft Substrate,Sediment,,,,LCE,95,,,SED,Sediment,Sediment,Sediment,https://coralnet.ucsd.edu/label/95/
+Soft Substrate,Mud,,,,LCE,815,,,MUD,Mud,Mud,Mud,https://coralnet.ucsd.edu/label/815/
+Soft Substrate,Pebbles,,,,LCE,3369,,,PEB,Pebbles,Pebbles,Pebbles,https://coralnet.ucsd.edu/label/3369/
+Hard Substrate,Rock,,,,LCE,515,,,ROC,Rock,Rock,Rock,https://coralnet.ucsd.edu/label/515/
+Seagrass,Posidonia oceanica,,,,LCE,6207,,,POS,Posidonia oceanica,Posidonia oceanica,Posidonia oceanica,https://coralnet.ucsd.edu/label/6207/
+Other,Dead matte,,,,LC,11685,,,PDM,Posidonia dead matte,-,Posidonia dead matte,https://coralnet.ucsd.edu/label/11685/
+Seagrass,Cymodocea nodosa,,,,LCE,7191,,,CYM,Cymodocea nodosa,Cymodocea nodosa,Cymodocea nodosa,https://coralnet.ucsd.edu/label/7191/
+Seagrass,Halophyla stipulacea,,,,LCE,2108,,,HAL,Halophila stipulacea,Halophila stipulacea,Halophila stipulacea,https://coralnet.ucsd.edu/label/2108/
+Other Invertebrates,Other invertebrate,,,,LCE,982,,,INV,Other invertebrate,Other invertebrate,Other invertebrate,https://coralnet.ucsd.edu/label/982/
+Other,Fish,,,,LCE,460,,,FIS,Fish,Fish,Fish,https://coralnet.ucsd.edu/label/460/
+Other,Mucilage,,,,LCE,7155,,,MUC,Mucilage,Mucilage,Mucilage,https://coralnet.ucsd.edu/label/7155/
+Other,Unidentified,,,,LCE,4145,,,UNI,Unidentified,Unidentified,Unidentified,https://coralnet.ucsd.edu/label/4145/
+Other,Other,,,,LCE,2546,,,OTH,Other,Other,Other,https://coralnet.ucsd.edu/label/2546/
+Other,Turf,,,,LCE,6200,,,TUR,Turf,Turf,,https://coralnet.ucsd.edu/label/6200/
